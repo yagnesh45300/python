@@ -1,0 +1,11 @@
+
+a=input("enter your name")
+b=input("enter your Roll number")
+c=input("enter your phone number")
+d=input("enter your collage name")
+e=input("enter your collage  number")
+print("entered name is: "+a)
+print("entered name is: "+b)
+print("entered name is: "+c)
+print("entered name is: "+d)
+print("entered name is: "+e)
